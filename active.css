@@ -1,0 +1,257 @@
+.content{
+    width: 100%;
+    display: block;
+    position: relative;
+    left: 0px;
+    background: antiquewhite;
+    top: 0px;
+}
+.head{
+    width: 100%;
+    /* height: 157px; */
+    margin: 0px;
+    background: aquamarine;
+}
+.head-content-title{
+}
+.head-content-title-photo{
+    margin: 5px;
+    height: 38px;
+    float: left;
+    width: 38px;
+    border-radius: 5px;
+}
+.head-content-title-name{
+       float: none;
+       margin: 0px;
+       padding-top: 16px;
+       padding-right: 78px;
+       padding-left: 50px;
+       font-size: 14px;
+    }
+.head-content-title-time{position: absolute;line-height: 45px;font-size: 12px;top: 0px;display: block;right: 10px;}
+.head-content-content{
+    /* width: 100%; */
+    line-height: 20px;
+    font-size: 14px;
+    padding-right: 10px;
+    text-indent: 2em;
+    margin-left: 50px;
+    word-break: break-all;
+}
+.head-content-content-title{
+    height: initial;
+    width: 100%;
+}
+.head-content-content-photo{
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+    display: block;
+    border-radius: 5px;
+}
+.head-content-bottom{
+    overflow: hidden;
+    clear: both;
+    margin: 0px;
+    list-style-type: none;
+    padding: 0px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+}
+.head-content-bottom-right{float: right;padding-right: 9px;}
+ 
+.head-content-bottom-person{
+    float: left;
+}
+.head-content-bottom-person img{
+    /* text-align: end; */
+    height: 15px;
+    line-height: 10px;
+}
+.head-content-bottom-person span{
+    font-size: 12px;
+}
+.head-content-bottom-see{
+    /* float: left; */
+    width: 37px;
+    display: inline-block;
+}
+.head-content-bottom-see img{
+  height: 10px;
+  /* margin-left: 90px; */
+}
+.head-content-bottom-see span{
+  font-size: 12px;
+}
+
+.head-content-bottom-message{
+    /* float: right; */
+    display: inline-block;
+}
+.head-content-bottom-message img{
+   height: 12px;
+   /* text-align: end; */
+   /* margin-left: 18px; */
+}
+.head-content-bottom-message span{
+   text-align: end;
+   font-size: 12px;
+}
+.list {
+    /* height: 100%; */
+    display: block;
+    background: blue;
+    clear: both;
+}
+.list-item{
+    background: #f9c4d0;
+    margin-bottom: 1px;
+    height: auto;
+    display: flex;
+    padding-bottom: 5px;
+}
+.list-item-title{
+}
+.list-item-title-photo{
+    margin: 5px;
+    border-radius: 20px;
+    float: left;
+    height: 30px;
+    width: 30px;
+}
+.list-item-title-nameinfo{
+    float: left;
+    padding-top: 3px;
+    padding-left: 5px;
+}
+.list-item-title-like{
+    float: right;
+    margin-top: 12px;
+    top: 0px;
+    display: block;
+    right: 10px;
+}
+
+.list-item-title-name{
+  float: left;
+  font-size: 18px;
+  text-overflow: ellipsis;
+  width: 200px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.list-item-title-floor{
+    float: left;
+    /* margin-top: 10px; */
+    font-size: 12px;
+}
+.list-item-title-time{
+    float: none;
+    margin-top: 15px;
+    margin-left: 5px;
+    font-size: 12px;
+}
+.list-item-title-likeimg{
+    height: 20px;
+    /* margin-left: 300px; */
+}
+.list-item-title-likenum{
+    font-size: 12px;
+    margin-right: 10px;
+}
+
+.head-content-content-list{
+    width: 100%;
+    line-height: 20px;
+    /* margin-top: 50px; */
+}
+.head-content-content-list-title{
+    float: left;
+    width: 88%;
+    padding-right: 10px;
+    text-indent: 2em;
+    margin-left: 50px;
+    word-break: break-all;
+    font-size: 14px;
+}
+.head-content-content-list-gridview{
+  margin-left: 30px;
+  margin-right: 10px;
+  display: block;
+}
+.head-content-content-list-photo{
+    float: left;
+    margin-left: 18px;
+    margin-top: 10px;
+}
+.head-content-content-list-photo2{
+    margin: 5px;
+    height: 25%;
+    float: left;
+    width: 25%;
+    /* display: inline-block; */
+    border-radius: 5px;
+    margin-left: 8px;
+}
+.head-content-content-list-photo3{
+    margin: 5px;
+    float: left;
+    width:  25%;
+    border-radius: 5px;
+    margin-left: 8px;
+}
+.head-content-content-list-photo4{
+    margin: 5px;
+    height: 25%;
+    float: left;
+    width: 25%;
+    /* display: inline-block; */
+    border-radius: 5px;
+    margin-left: 50px;
+}
+.head-content-content-list-photo5{
+    margin: 5px;
+    height: 25%;
+    float: left;
+    width: 25%;
+    /* display: inline-block; */
+    border-radius: 5px;
+    margin-left: 8px;
+}
+.head-content-content-list-photo6{
+    margin: 5px;
+    height: 25%;
+    float: left;
+    width:  25%;
+    /* display: inline-block; */
+    border-radius: 5px;
+    margin-left: 8px;
+}
+.head-content-content-list-photo7{
+    margin: 5px;
+    height: 25%;
+    float: left;
+    width: 25%;
+    /* display: inline-block; */
+    border-radius: 5px;
+    margin-left: 50px;
+}
+.head-content-content-list-photo8{
+    margin: 5px;
+    height: 25%;
+    float: left;
+    width: 25%;
+    /* display: inline-block; */
+    border-radius: 5px;
+    margin-left: 8px;
+}
+.head-content-content-list-photo9{
+    margin: 5px;
+    height: 25%;
+    float: left;
+    width:  25%;
+    /* display: inline-block; */
+    border-radius: 5px;
+    margin-left: 8px;
+}
